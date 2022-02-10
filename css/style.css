@@ -1,0 +1,10 @@
+div {
+  height: 100vh;
+  background-image: url("../img/bird.jpg"), url("../img/hero-bcg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: hue;
+}
+div h2 {
+  mix-blend-mode: soft-light;
+}
